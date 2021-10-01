@@ -3,5 +3,5 @@ Control the Volume of your system with gesture
 
 ## Installation
 ```shell
-$ pip install -r dev-requirements.txt
+$ pip install -r requirements.txt
 ```
